@@ -1,0 +1,6 @@
+pistol:
+  type: handgun
+  efficiency: 3
+  inventory_view: pistol
+
+

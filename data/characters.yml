@@ -1,0 +1,7 @@
+main_character:
+  view: main_character
+
+hangar_supervisor_1:
+  combat_behavior: hide
+  dialog: hangar_supervisor_1
+  view: hangar_supervisor_1
